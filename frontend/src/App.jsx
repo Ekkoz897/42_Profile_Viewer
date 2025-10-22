@@ -40,7 +40,7 @@ export default function App() {
 
       <footer className="container muted" style={{ padding: "18px 0 36px" }}>
         <hr className="hr" />
-        <div style={{ marginTop: 12, fontSize: 12 }}>© {new Date().getFullYear()} — 42-themed demo UI</div>
+        <div style={{ marginTop: 12, fontSize: 12 }}>© {new Date().getFullYear()} — 42-themed API practicing</div>
       </footer>
     </>
   );
